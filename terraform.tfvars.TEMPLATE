@@ -1,0 +1,5 @@
+// AWS Environment
+access_key = "INSERT AWS ACCESS KEY HERE"
+secret_key = "INSERT AWS SECRET KEY HERE"
+
+// Rename this file as terraform.tfvars once filled in.
